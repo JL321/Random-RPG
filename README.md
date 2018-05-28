@@ -1,2 +1,2 @@
 # Random-RPG
-Basic RPG game
+Basic RPG game for final summative (G11).
